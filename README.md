@@ -18,15 +18,6 @@ It would be a good idea to have a basic understanding of autoloading and namespa
 
 Update your project's composer file.
 
-Specify where the repo is
-
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/rayzor65/module-tutorial" // Change this to your module
-        }
-    ]
-
 Then add to require
 
         "require": {
@@ -46,6 +37,8 @@ Now you may you the class in your project like so
             $service->doSomething();
         }
     }
+
+Full example here https://github.com/adamsynnott/rayzor65-module-example
 
 ### Final steps
 
