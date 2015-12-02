@@ -11,6 +11,7 @@ It would be a good idea to have a basic understanding of autoloading and namespa
 * Tag your module
 
     git tag 1.0.1
+    
     git push origin --tags
 
 ### Including the module
