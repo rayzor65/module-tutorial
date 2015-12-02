@@ -1,5 +1,5 @@
 {
-  "name": "module-tutorial",
+  "name": "rayzor65/module-tutorial",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "description": "Tutorial for creating a reusable module",
