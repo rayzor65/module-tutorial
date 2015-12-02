@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ModuleTutorial\\MyModule\\": "my-module/"
+      "ModuleTutorial\\MyModule\\": "src/"
     }
   }
 }
