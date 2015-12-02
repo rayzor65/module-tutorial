@@ -10,7 +10,7 @@ It would be a good idea to have a basic understanding of autoloading and namespa
 * The autoload field means all the classes will be included under the specified namespace.
 * Tag your module
 
-    git tag 1.0.0
+    git tag 1.0.1
     git push origin --tags
 
 ### Including the module
@@ -29,7 +29,7 @@ Specify where the repo is
 Then add to require
 
         "require": {
-            "rayzor65/module-tutorial": "dev-master" // Change this to your module
+            "rayzor65/module-tutorial": "1.0.1" // Change this to your module
         }
 
 Now you may you the class in your project like so
